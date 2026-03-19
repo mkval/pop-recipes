@@ -7,29 +7,29 @@
 
 import XCTest
 
+@testable import Recipes
+
+@MainActor
 final class RecipeListViewModelTests: XCTestCase {
+    
+    var sut: RecipeListViewModel!
+    var mockAPIClient: MockAPIClient!
 
     override func setUpWithError() throws {
-        // Put setup code here. This method is called before the invocation of each test method in the class.
+        self.mockAPIClient = MockAPIClient()
+        self.sut = RecipeListViewModel(apiClient: self.mockAPIClient)
     }
 
     override func tearDownWithError() throws {
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
+        //
     }
 
-    func testExample() throws {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-        // Any test you write for XCTest can be annotated as throws and async.
-        // Mark your test throws to produce an unexpected failure when your test encounters an uncaught error.
-        // Mark your test async to allow awaiting for asynchronous code to complete. Check the results with assertions afterwards.
-    }
-
-    func testPerformanceExample() throws {
-        // This is an example of a performance test case.
-        self.measure {
-            // Put the code you want to measure the time of here.
-        }
+    func test_fetchRecipes_callsAPIClient() async throws {
+        await self.sut.fetchData()
+        let expectedResult = try await self.mockAPIClient.fetchRecipes()
+        
+        XCTAssertEqual(self.sut.recipes.count, expectedResult.count)
+        XCTAssertEqual(self.sut.recipes.first?.id, expectedResult.first?.id)
     }
 
 }
