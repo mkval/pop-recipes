@@ -1,0 +1,712 @@
+{
+  "international_recipes": [
+    {
+      "id": "RECIPE_002",
+      "title": "Thai Green Curry",
+      "origin": "Thailand",
+      "description": "A fragrant, spicy, and creamy curry featuring coconut milk and fresh herbs.",
+      "servings": 4,
+      "prep_time": "15 mins",
+      "cook_time": "20 mins",
+      "calories_per_serving": 450,
+      "ingredients": [
+        "2 tbsp green curry paste",
+        "400ml coconut milk",
+        "500g chicken breast, sliced",
+        "2 tbsp fish sauce",
+        "1 tbsp palm sugar",
+        "100g bamboo shoots",
+        "Handful of Thai basil"
+      ],
+      "instructions": [
+        "Fry the curry paste in 2 tbsp of coconut cream until fragrant.",
+        "Add chicken and stir-fry until opaque.",
+        "Pour in the remaining coconut milk and bring to a simmer.",
+        "Add bamboo shoots, fish sauce, and sugar.",
+        "Simmer for 10 minutes, then stir in Thai basil."
+      ],
+      "dietary_attributes": [
+        "Gluten-Free"
+      ],
+      "tags": [
+        "Thai",
+        "Curry",
+        "Spicy",
+        "Coconut",
+        "Asian"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_003",
+      "title": "Guacamole",
+      "origin": "Mexico",
+      "description": "A creamy, tangy avocado dip that is a staple of Mexican cuisine.",
+      "servings": 4,
+      "prep_time": "10 mins",
+      "cook_time": "0 mins",
+      "calories_per_serving": 150,
+      "ingredients": [
+        "3 ripe avocados",
+        "1 small red onion, diced",
+        "2 Roma tomatoes, diced",
+        "1/2 cup cilantro, chopped",
+        "1 jalapeño, minced",
+        "2 tbsp lime juice"
+      ],
+      "instructions": [
+        "Mash the avocado flesh with lime juice and salt.",
+        "Fold in the onion, tomatoes, cilantro, and jalapeño.",
+        "Serve immediately with corn chips."
+      ],
+      "dietary_attributes": [
+        "Vegan",
+        "Vegetarian",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "Mexican",
+        "Dip",
+        "Avocado",
+        "Healthy",
+        "Appetizer"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1547049082-1a12c3bf2366?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1547049082-1a12c3bf2366?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_004",
+      "title": "Butter Chicken",
+      "origin": "India",
+      "description": "Tender chicken in a mild, buttery, and creamy tomato-based sauce.",
+      "servings": 4,
+      "prep_time": "20 mins",
+      "cook_time": "30 mins",
+      "calories_per_serving": 520,
+      "ingredients": [
+        "800g chicken thighs",
+        "1 cup Greek yogurt",
+        "100g butter",
+        "1 cup tomato puree",
+        "1 cup heavy cream",
+        "2 tbsp garam masala"
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt and spices for 3 hours.",
+        "Sear chicken in a pan until browned.",
+        "Simmer tomato puree with butter and remaining spices.",
+        "Stir in cream and add chicken back to the sauce for 10 mins."
+      ],
+      "dietary_attributes": [
+        "Gluten-Free"
+      ],
+      "tags": [
+        "Indian",
+        "Curry",
+        "Creamy",
+        "Chicken",
+        "Comfort Food"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_005",
+      "title": "Spanish Paella Mixta",
+      "origin": "Spain",
+      "description": "A vibrant rice dish from Valencia featuring seafood, meat, and saffron.",
+      "servings": 6,
+      "prep_time": "25 mins",
+      "cook_time": "35 mins",
+      "calories_per_serving": 480,
+      "ingredients": [
+        "400g Bomba rice",
+        "1L chicken stock",
+        "200g shrimp",
+        "200g chicken thighs",
+        "1 tsp saffron",
+        "1 tsp smoked paprika"
+      ],
+      "instructions": [
+        "Brown chicken in olive oil.",
+        "Stir in rice and spices to coat.",
+        "Add stock and simmer without stirring for 15 minutes.",
+        "Add seafood on top and cook until rice is tender and a crust forms."
+      ],
+      "dietary_attributes": [
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "Spanish",
+        "Seafood",
+        "Rice",
+        "Traditional",
+        "One-Pot"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1534080564607-317fdb5afc1d?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1534080564607-317fdb5afc1d?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_006",
+      "title": "Japanese Ramen (Shoyu)",
+      "origin": "Japan",
+      "description": "Comforting noodle soup in a soy-sauce based savory broth.",
+      "servings": 2,
+      "prep_time": "15 mins",
+      "cook_time": "15 mins",
+      "calories_per_serving": 450,
+      "ingredients": [
+        "2 portions ramen noodles",
+        "1L chicken stock",
+        "3 tbsp soy sauce",
+        "4 slices chashu pork",
+        "1 soft-boiled egg"
+      ],
+      "instructions": [
+        "Simmer stock with soy sauce and mirin.",
+        "Cook noodles separately and place in bowls.",
+        "Pour hot broth over noodles and top with pork and egg."
+      ],
+      "dietary_attributes": [
+        "Dairy-Free"
+      ],
+      "tags": [
+        "Japanese",
+        "Soup",
+        "Noodles",
+        "Shoyu",
+        "Umami"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1557872246-543ad869e631?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1557872246-543ad869e631?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_007",
+      "title": "Hummus",
+      "origin": "Middle East",
+      "description": "A smooth and creamy chickpea-based dip.",
+      "servings": 6,
+      "prep_time": "10 mins",
+      "cook_time": "0 mins",
+      "calories_per_serving": 170,
+      "ingredients": [
+        "400g chickpeas",
+        "1/2 cup tahini",
+        "1/4 cup lemon juice",
+        "1 garlic clove",
+        "2 tbsp olive oil"
+      ],
+      "instructions": [
+        "Process all ingredients in a blender until smooth.",
+        "Drizzle with oil and serve."
+      ],
+      "dietary_attributes": [
+        "Vegan",
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "Middle Eastern",
+        "Dip",
+        "Healthy",
+        "Vegan",
+        "Chickpeas"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1577906030559-002476579628?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1577906030559-002476579628?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_008",
+      "title": "Greek Moussaka",
+      "origin": "Greece",
+      "description": "A layered eggplant bake topped with a thick béchamel sauce.",
+      "servings": 6,
+      "prep_time": "40 mins",
+      "cook_time": "50 mins",
+      "calories_per_serving": 550,
+      "ingredients": [
+        "2 eggplants",
+        "500g ground lamb",
+        "400g canned tomatoes",
+        "500ml béchamel sauce",
+        "Parmesan cheese"
+      ],
+      "instructions": [
+        "Fry eggplant slices.",
+        "Make a lamb and tomato ragu.",
+        "Layer eggplant and meat, top with béchamel, and bake at 180°C."
+      ],
+      "dietary_attributes": [
+        "Contains Gluten",
+        "Contains Dairy"
+      ],
+      "tags": [
+        "Greek",
+        "Casserole",
+        "Eggplant",
+        "Lamb",
+        "Baked"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_009",
+      "title": "Beef Stroganoff",
+      "origin": "Russia",
+      "description": "Tender strips of beef in a sour cream and mushroom sauce.",
+      "servings": 4,
+      "prep_time": "15 mins",
+      "cook_time": "15 mins",
+      "calories_per_serving": 480,
+      "ingredients": [
+        "600g beef sirloin",
+        "250g mushrooms",
+        "1 cup sour cream",
+        "1 tbsp Dijon mustard"
+      ],
+      "instructions": [
+        "Sear beef and set aside.",
+        "Sauté mushrooms and onions.",
+        "Stir in sour cream and mustard, then return beef to the pan."
+      ],
+      "dietary_attributes": [
+        "Nut-Free"
+      ],
+      "tags": [
+        "Russian",
+        "Beef",
+        "Creamy",
+        "Mushroom",
+        "Quick Meal"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1534938665420-4193effeacc4?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1534938665420-4193effeacc4?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_010",
+      "title": "Vietnamese Pho Ga",
+      "origin": "Vietnam",
+      "description": "Fragrant chicken noodle soup with ginger and star anise.",
+      "servings": 4,
+      "prep_time": "20 mins",
+      "cook_time": "30 mins",
+      "calories_per_serving": 350,
+      "ingredients": [
+        "1.5L chicken broth",
+        "200g rice noodles",
+        "2 cups shredded chicken",
+        "Star anise",
+        "Fish sauce"
+      ],
+      "instructions": [
+        "Infuse broth with spices.",
+        "Place noodles and chicken in bowls.",
+        "Pour hot broth over and serve with fresh herbs."
+      ],
+      "dietary_attributes": [
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "Vietnamese",
+        "Soup",
+        "Healthy",
+        "Chicken",
+        "Light"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_011",
+      "title": "Tabbouleh Salad",
+      "origin": "Lebanon",
+      "description": "A refreshing herb-heavy salad with cracked wheat.",
+      "servings": 4,
+      "prep_time": "25 mins",
+      "cook_time": "0 mins",
+      "calories_per_serving": 140,
+      "ingredients": [
+        "1/2 cup bulgur",
+        "3 bunches parsley",
+        "4 tomatoes",
+        "Lemon juice",
+        "Olive oil"
+      ],
+      "instructions": [
+        "Soak bulgur until soft.",
+        "Chop parsley and tomatoes finely.",
+        "Toss together with lemon juice and oil."
+      ],
+      "dietary_attributes": [
+        "Vegan",
+        "Vegetarian",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "Lebanese",
+        "Salad",
+        "Healthy",
+        "Parsley",
+        "Fresh"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_012",
+      "title": "Pão de Queijo",
+      "origin": "Brazil",
+      "description": "Cheesy, chewy bread balls made with tapioca flour.",
+      "servings": 20,
+      "prep_time": "15 mins",
+      "cook_time": "20 mins",
+      "calories_per_serving": 90,
+      "ingredients": [
+        "500g tapioca flour",
+        "200g Parmesan",
+        "2 eggs",
+        "200ml milk"
+      ],
+      "instructions": [
+        "Mix boiled milk and oil with flour.",
+        "Add eggs and cheese.",
+        "Roll into balls and bake at 190°C."
+      ],
+      "dietary_attributes": [
+        "Vegetarian",
+        "Gluten-Free"
+      ],
+      "tags": [
+        "Brazilian",
+        "Bread",
+        "Cheese",
+        "Snack",
+        "Gluten-Free"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1598143152818-4d56d787031b?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1598143152818-4d56d787031b?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_013",
+      "title": "French Onion Soup",
+      "origin": "France",
+      "description": "Rich beef broth with caramelized onions and cheesy bread.",
+      "servings": 4,
+      "prep_time": "15 mins",
+      "cook_time": "1 hour",
+      "calories_per_serving": 400,
+      "ingredients": [
+        "1kg onions",
+        "1L beef stock",
+        "Baguette slices",
+        "Gruyère cheese"
+      ],
+      "instructions": [
+        "Caramelize onions for 45 minutes.",
+        "Add stock and simmer.",
+        "Top with bread and cheese, then broil."
+      ],
+      "dietary_attributes": [
+        "Contains Dairy"
+      ],
+      "tags": [
+        "French",
+        "Soup",
+        "Onion",
+        "Comfort Food",
+        "Cheesy"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_014",
+      "title": "Vegetable Tagine",
+      "origin": "Morocco",
+      "description": "A slow-cooked aromatic stew with sweet and savory spices.",
+      "servings": 4,
+      "prep_time": "15 mins",
+      "cook_time": "45 mins",
+      "calories_per_serving": 280,
+      "ingredients": [
+        "2 carrots",
+        "1 can chickpeas",
+        "1/2 cup dried apricots",
+        "Ras el Hanout spice"
+      ],
+      "instructions": [
+        "Sauté onions and spices.",
+        "Add vegetables and chickpeas.",
+        "Simmer for 40 minutes until tender."
+      ],
+      "dietary_attributes": [
+        "Vegan",
+        "Vegetarian",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "Moroccan",
+        "Stew",
+        "Vegan",
+        "Chickpeas",
+        "Healthy"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1541518763669-27fef04b14ea?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_015",
+      "title": "Chili Con Carne",
+      "origin": "USA/Mexico",
+      "description": "A spicy, hearty stew featuring ground beef and beans.",
+      "servings": 6,
+      "prep_time": "10 mins",
+      "cook_time": "1 hour",
+      "calories_per_serving": 450,
+      "ingredients": [
+        "500g ground beef",
+        "1 can kidney beans",
+        "400g crushed tomatoes",
+        "Chili powder"
+      ],
+      "instructions": [
+        "Brown beef with onions.",
+        "Add spices, tomatoes, and beans.",
+        "Simmer for 1 hour."
+      ],
+      "dietary_attributes": [
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "Tex-Mex",
+        "Beef",
+        "Spicy",
+        "Stew",
+        "High-Protein"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1622350816041-61014cc614a9?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1622350816041-61014cc614a9?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_016",
+      "title": "Chicken Adobo",
+      "origin": "Philippines",
+      "description": "Savory, tangy chicken braised in soy sauce, vinegar, and garlic.",
+      "servings": 4,
+      "prep_time": "10 mins",
+      "cook_time": "40 mins",
+      "calories_per_serving": 380,
+      "ingredients": [
+        "1kg chicken thighs",
+        "1/2 cup soy sauce",
+        "1/3 cup cane vinegar",
+        "6 cloves garlic, crushed",
+        "3 bay leaves",
+        "1 tsp peppercorns"
+      ],
+      "instructions": [
+        "Combine all ingredients in a pot and marinate for 30 minutes.",
+        "Bring to a boil, then lower heat and simmer for 30 minutes.",
+        "Optional: Sear chicken for crispy skin before returning to sauce.",
+        "Reduce sauce until thickened and serve over rice."
+      ],
+      "dietary_attributes": [
+        "Dairy-Free",
+        "Nut-Free"
+      ],
+      "tags": [
+        "Filipino",
+        "Chicken",
+        "Savory",
+        "Dinner",
+        "Comfort Food"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1624462966581-bc6d768cbce5?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1624462966581-bc6d768cbce5?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_017",
+      "title": "Street Style Beef Tacos",
+      "origin": "Mexico",
+      "description": "Corn tortillas filled with seasoned beef, topped with onion and cilantro.",
+      "servings": 4,
+      "prep_time": "15 mins",
+      "cook_time": "15 mins",
+      "calories_per_serving": 320,
+      "ingredients": [
+        "500g flank steak, diced",
+        "12 small corn tortillas",
+        "1 white onion, diced",
+        "1 bunch cilantro",
+        "2 limes"
+      ],
+      "instructions": [
+        "Season steak and sear in a hot skillet until browned.",
+        "Warm tortillas on a griddle.",
+        "Fill tortillas with meat and top with onions and cilantro.",
+        "Serve with a squeeze of lime."
+      ],
+      "dietary_attributes": [
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "Mexican",
+        "Street Food",
+        "Beef",
+        "Quick",
+        "Dinner"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_018",
+      "title": "Coq au Vin",
+      "origin": "France",
+      "description": "A classic French bistro dish of chicken braised with wine, lardons, and mushrooms.",
+      "servings": 4,
+      "prep_time": "30 mins",
+      "cook_time": "1.5 hours",
+      "calories_per_serving": 540,
+      "ingredients": [
+        "1 whole chicken, jointed",
+        "750ml red wine",
+        "150g bacon lardons",
+        "250g mushrooms"
+      ],
+      "instructions": [
+        "Fry bacon until crisp, then brown chicken in the fat.",
+        "Add onions, mushrooms, and garlic.",
+        "Pour in wine and simmer slowly for 1 hour until chicken is tender."
+      ],
+      "dietary_attributes": [
+        "Nut-Free"
+      ],
+      "tags": [
+        "French",
+        "Chicken",
+        "Stew",
+        "Wine",
+        "Classic"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_019",
+      "title": "Pad Thai",
+      "origin": "Thailand",
+      "description": "Stir-fried rice noodles with eggs, tofu, and a tangy tamarind sauce.",
+      "servings": 2,
+      "prep_time": "20 mins",
+      "cook_time": "10 mins",
+      "calories_per_serving": 490,
+      "ingredients": [
+        "200g rice noodles",
+        "100g firm tofu",
+        "2 eggs",
+        "3 tbsp tamarind paste",
+        "1/4 cup peanuts"
+      ],
+      "instructions": [
+        "Soak noodles until soft.",
+        "Stir-fry tofu, then add noodles and tamarind sauce.",
+        "Scramble eggs into the mix and top with peanuts."
+      ],
+      "dietary_attributes": [
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "Thai",
+        "Noodles",
+        "Street Food",
+        "Stir-fry",
+        "Sweet and Sour"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_020",
+      "title": "Shakshuka",
+      "origin": "Middle East",
+      "description": "Poached eggs in a spicy tomato and bell pepper sauce.",
+      "servings": 3,
+      "prep_time": "10 mins",
+      "cook_time": "20 mins",
+      "calories_per_serving": 250,
+      "ingredients": [
+        "6 eggs",
+        "1 can tomatoes",
+        "1 red bell pepper",
+        "1 onion",
+        "Cumin and Paprika"
+      ],
+      "instructions": [
+        "Sauté onion and pepper, then add tomatoes and spices.",
+        "Crack eggs into the sauce and cover.",
+        "Cook until whites are set but yolks are runny."
+      ],
+      "dietary_attributes": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Dairy-Free"
+      ],
+      "tags": [
+        "Middle Eastern",
+        "Breakfast",
+        "Eggs",
+        "Vegetarian",
+        "One-Pan"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1590412200988-a436970781fa?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1590412200988-a436970781fa?auto=format&fit=crop&w=100&h=100&q=80"
+    },
+    {
+      "id": "RECIPE_001",
+      "title": "Classic Margherita Pizza",
+      "origin": "Italy",
+      "description": "The quintessential Neapolitan pizza featuring the colors of the Italian flag.",
+      "servings": 2,
+      "prep_time": "20 mins",
+      "cook_time": "10 mins",
+      "calories_per_serving": 600,
+      "ingredients": [
+        "250g pizza dough",
+        "100ml San Marzano tomato passata",
+        "125g fresh mozzarella di bufala",
+        "Handful of fresh basil leaves",
+        "1 tbsp extra virgin olive oil",
+        "Pinch of sea salt"
+      ],
+      "instructions": [
+        "Preheat oven to its highest setting (250°C) with a pizza stone inside.",
+        "Stretch the dough into a thin circle on a floured surface.",
+        "Spread tomato passata over the base, leaving a 1-inch border.",
+        "Tear mozzarella and distribute evenly; add salt and oil.",
+        "Bake for 7-10 minutes until the crust is charred and cheese is bubbly.",
+        "Top with fresh basil immediately after removing from the oven."
+      ],
+      "dietary_attributes": [
+        "Vegetarian"
+      ],
+      "tags": [
+        "Italian",
+        "Pizza",
+        "Dinner",
+        "Classic",
+        "Cheesy"
+      ],
+      "photo_url_large": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?auto=format&fit=crop&w=800&q=80",
+      "photo_url_thumbnail": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad38?auto=format&fit=crop&w=100&h=100&q=80"
+    }
+  ]
+}

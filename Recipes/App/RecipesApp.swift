@@ -7,11 +7,13 @@
 
 import SwiftUI
 
-@main
 struct RecipesApp: App {
+    
+    let apiClient = APIClient()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RecipeListView(viewModel: RecipeListViewModel(apiClient: self.apiClient))
         }
     }
 }
