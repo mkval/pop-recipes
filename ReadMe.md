@@ -1,0 +1,32 @@
+
+# Recipes
+
+## Setup instructions
+
+- Download a copy of this project unto your local machine 
+- Extract the contents of the ZIP file
+- Locate `Recipes.xcodeproj` then double click to open it
+- Assuming you already have Xcode 26 installed in your computer, you should be able to compile 
+this project without any issues.
+
+## High-level architecture overview
+
+- This project mainly uses MVVM architecture.
+- This promotes clear separation of concerns between the UI, business logic, and the data layer.
+- Improves testability of the business logic which mostly resides in ViewModels.
+
+## Key design decisions
+
+- I opted for a list-style approach instead of Grid as each row better provides ample information per recipe.
+- Kept the overall design as simple as possible letting each recipe standout.
+- Added image URL to the Recipe information apart from the minimum required attributes. 
+- Note though that not all recipe images are correct. Some are just placeholders and the rest are inaccessible.  
+
+## Assumptions and tradeoffs
+
+- App only works for a fixed number of recipes. Needs additional work to support batching and reloading. 
+- Only tested on iPhone Simulator. May look vastly different on tablets.  
+
+## Any known limitations
+
+- Recipe data used in this app is AI generated. May contain incorrect information.  
