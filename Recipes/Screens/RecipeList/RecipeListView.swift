@@ -36,6 +36,7 @@ struct RecipeListView: View {
                 await viewModel.fetchData()
             }
             .navigationTitle("Recipes")
+            .navigationBarTitleDisplayMode(.inline)
             
             .navigationDestination(for: RecipeDetailsViewModel.self, destination: { viewModel in
                 RecipeDetailsView(viewModel: viewModel, path: $path)

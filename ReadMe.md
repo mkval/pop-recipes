@@ -1,6 +1,12 @@
 
 # Recipes
 
+## Screenshots
+
+| Main Page                     | Detail Page                        |
+|:---                           |:---                                |
+| ![Main](Screenshots/main.png) |  ![Detail](Screenshots/detail.png) |
+
 ## Setup instructions
 
 - Download a copy of this project unto your local machine 
