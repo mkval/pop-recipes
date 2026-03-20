@@ -25,7 +25,7 @@ this project without any issues.
 ## Assumptions and tradeoffs
 
 - App only works for a fixed number of recipes. Needs additional work to support batching and reloading. 
-- Only tested on iPhone Simulator. May look vastly different on tablets.  
+- Only tested on iPhone Simulator. May look vastly different on tablets in terms of the amount of spacing and layout.  
 
 ## Any known limitations
 

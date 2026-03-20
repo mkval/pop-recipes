@@ -53,7 +53,7 @@ struct RecipeDetailsView: View {
                 .lineSpacing(4)
 
             HStack {
-                ForEach(viewModel.recipe.dietaryAttributes, id: \.self) { attr in
+                ForEach(viewModel.recipe.dietaryAttributes.map { $0.rawValue }, id: \.self) { attr in
                     Text(attr)
                         .font(.caption2)
                         .padding(.horizontal, 8)

@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		A9004F682F6C2B6D00F58BEB /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
-		A9004F6B2F6C2D9000F58BEB /* Recipes.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = file; path = Recipes.xctestplan; sourceTree = "<group>"; };
+		A9004F6B2F6C2D9000F58BEB /* Recipes.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = Recipes.xctestplan; sourceTree = "<group>"; };
 		A9004F6C2F6C2DD200F58BEB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A90B8AB12F6B44EC00E5CFAF /* Recipes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Recipes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A90B8ABE2F6B44ED00E5CFAF /* RecipesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RecipesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };

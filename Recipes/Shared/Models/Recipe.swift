@@ -18,7 +18,7 @@ struct Recipe: Codable, Identifiable {
     let caloriesPerServing: Int
     let ingredients: [String]
     let instructions: [String]
-    let dietaryAttributes: [String]
+    let dietaryAttributes: [DietaryAttribute]
     let tags: [String]
     
     @LossyURL
