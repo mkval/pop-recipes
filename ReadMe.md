@@ -12,15 +12,15 @@ this project without any issues.
 ## High-level architecture overview
 
 - This project mainly uses MVVM architecture.
-- This promotes clear separation of concerns between the UI, business logic, and the data layer.
+- MVVM promotes clear separation of concerns between the UI, business logic, and the data layer.
 - Improves testability of the business logic which mostly resides in ViewModels.
 
 ## Key design decisions
 
-- I opted for a list-style approach instead of Grid as each row better provides ample information per recipe.
+- I opted for a list-style approach instead of Grid as each row provides better spacing for recipe info.
 - Kept the overall design as simple as possible letting each recipe standout.
-- Added image URL to the Recipe information apart from the minimum required attributes. 
-- Note though that not all recipe images are correct. Some are just placeholders and the rest are inaccessible.  
+- Added image URL to the Recipe information apart from the minimum required attributes just to balance it a little bit.
+- Note though that not all recipe images are correct. Some are just placeholders and the rest are even inaccessible.  
 
 ## Assumptions and tradeoffs
 
@@ -29,4 +29,5 @@ this project without any issues.
 
 ## Any known limitations
 
+- Filter isn't completed yet. Doesn't limit filters based on the search result set as of now. 
 - Recipe data used in this app is AI generated. May contain incorrect information.  

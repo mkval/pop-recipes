@@ -21,6 +21,7 @@ struct SearchBarView: View {
                 
                 TextField("Search", text: $text)
                 
+                // Only show the Clear button once we have content in the textField.
                 if !text.isEmpty {
                     Button {
                         text = ""

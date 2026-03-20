@@ -9,6 +9,8 @@ import XCTest
 
 @testable import Recipes
 
+// TODO Test search and filter logic
+
 @MainActor
 final class RecipeListViewModelTests: XCTestCase {
     

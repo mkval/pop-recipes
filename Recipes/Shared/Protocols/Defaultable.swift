@@ -7,6 +7,12 @@
 
 import Foundation
 
+/// Decodable types conforming to this protocol are able to continue with the decoding process
+/// without being halted by a DecodingError.
+///
+/// For example, in the case of an Enum type, Swift throws a DecodingError when decoding
+/// from a raw value that doesn't map to one of its cases.
+///
 protocol Defaultable: RawRepresentable {
     static var defaultValue: Self { get }
 }
